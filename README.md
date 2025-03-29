@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Creating my own SaaS product<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects<br><br>🌱 I’m currently learning:<br>AI/ML<br><br>💬 Ask me about:<br>SaaS ideas!<br><br>⚡ Fun fact:<br>From B.Com to coding—my journey into tech has been quite an adventure!<br>I started as a non-IT student, but now I’m diving deep into software engineering.
+🔭 I’m currently working on ~ <br>Creating my own SaaS product<br><br>👯 I’m looking to collaborate on ~<br>Full-stack projects<br><br>🌱 I’m currently learning ~<br>AI/ML<br><br>💬 Ask me about ~<br>SaaS ideas!<br><br>⚡ Fun fact ~<br>From B.Com to coding—my journey into tech has been quite an adventure!<br>I started as a non-IT student, but now I’m diving deep into software engineering.
 
 
 ## 🌐 Socials:
